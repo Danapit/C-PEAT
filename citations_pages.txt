@@ -1,0 +1,875 @@
+Anderson, DE (2018): Age determination of Glen_Carron_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890545
+Anderson, DE (2018): Age determination of Glen_Torridon_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890546
+Anderson, DE (2018): Geochemistry of Glen_Carron_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890529
+Anderson, DE (2018): Geochemistry of Glen_Torridon_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890530
+Anderson, DE (2021): Age determination of Glen Carron peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934337
+Anderson, DE (2021): Age determination of Glen Torridon peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934339
+Anderson, DE (2021): Calibrated ages of Glen Carron peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929567
+Anderson, DE (2021): Calibrated ages of Glen Torridon peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929566
+Anderson, DE (2021): Geochemistry of Glen Carron peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927872
+Anderson, DE (2021): Geochemistry of Glen Torridon peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927873
+Bauer, IE (2021): Age determination of Old Black Spruce Fen (OBS3 C3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934725
+Bauer, IE (2021): Age determination of Sandhill Fen (SF4 C3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936524
+Bauer, IE (2021): Calibrated ages of Old Black Spruce Fen (OBS3 C3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929778
+Bauer, IE (2021): Calibrated ages of Sandhill Fen (SF4 C3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930489
+Bauer, IE (2021): Geochemistry of Old Black Spruce Fen (OBS3 C3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928186
+Bauer, IE (2021): Geochemistry of Sandhill Fen (SF4 C3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928636
+Beilman, DW (2021): Age determination of Beretta (MRB13_3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935092
+Beilman, DW (2021): Age determination of Caribou (MRB13_4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935064
+Beilman, DW (2021): Age determination of Colesdalen (DB-SVD-CL10) peat core from Svalbard, Norway. PANGAEA, https://doi.org/10.1594/PANGAEA.934071
+Beilman, DW (2021): Age determination of Kohala peat core from Big Island, Hawaii, USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934397
+Beilman, DW (2021): Age determination of Left Boot Bog (MRB13_9 ) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934915
+Beilman, DW (2021): Calibrated ages of Beretta (MRB13_3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930118
+Beilman, DW (2021): Calibrated ages of Caribou (MRB13_4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930000
+Beilman, DW (2021): Calibrated ages of Colesdalen (DB-SVD-CL10) peat core from Svalbard, Norway. PANGAEA, https://doi.org/10.1594/PANGAEA.929300
+Beilman, DW (2021): Calibrated ages of Kohala peat core from Big Island, Hawaii, USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929648
+Beilman, DW (2021): Calibrated ages of Left Boot Bog (MRB13_9 ) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929894
+Beilman, DW (2021): Geochemistry of Beretta (MRB13_3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928554
+Beilman, DW (2021): Geochemistry of Caribou (MRB13_4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928426
+Beilman, DW (2021): Geochemistry of Colesdalen (DB-SVD-CL10) peat core from Svalbard, Norway. PANGAEA, https://doi.org/10.1594/PANGAEA.927454
+Beilman, DW (2021): Geochemistry of Kohala peat core from Big Island, Hawaii, USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927967
+Beilman, DW (2021): Geochemistry of Left Boot Bog (MRB13_9 ) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928309
+Biagioni, S (2021): Age determination of Air Hitam peat core from Sumatra, Indonesia. PANGAEA, https://doi.org/10.1594/PANGAEA.934111
+Biagioni, S (2021): Calibrated ages of Air Hitam peat core from Sumatra, Indonesia. PANGAEA, https://doi.org/10.1594/PANGAEA.929302
+Biagioni, S (2021): Geochemistry of Air Hitam peat core from Sumatra, Indonesia. PANGAEA, https://doi.org/10.1594/PANGAEA.927455
+Björck, S (2021): Age determination of Galvarne Moraine Ridge (GAL) peat core from Tierra del Fuego. PANGAEA, https://doi.org/10.1594/PANGAEA.934832
+Björck, S (2021): Age determination of Hyltemossen Bog peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934279
+Björck, S (2021): Calibrated ages of Galvarne Moraine Ridge (GAL) peat core from Tierra del Fuego. PANGAEA, https://doi.org/10.1594/PANGAEA.929856
+Björck, S (2021): Calibrated ages of Hyltemossen Bog peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929537
+Björck, S (2021): Geochemistry of Galvarne Moraine Ridge (GAL) peat core from Tierra del Fuego. PANGAEA, https://doi.org/10.1594/PANGAEA.928259
+Björck, S (2021): Geochemistry of Hyltemossen Bog peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927836
+Blyakharchuk, TA (2021): Age determination of Nadym (NAD) peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934167
+Blyakharchuk, TA (2021): Age determination of Shestakovo (NAD) peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934256
+Blyakharchuk, TA (2021): Calibrated ages of Nadym (NAD) peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929449
+Blyakharchuk, TA (2021): Calibrated ages of Shestakovo (NAD) peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929452
+Blyakharchuk, TA (2021): Geochemistry of Nadym (NAD) peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927715
+Blyakharchuk, TA (2021): Geochemistry of Shestakovo (NAD) peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927716
+Bochicchio, C (2018): Age determination of KAM12-C4_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890549
+Bochicchio, C (2018): Geochemistry of KAM12-C4_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890533
+Bochicchio, C (2021): Age determination of KAM12-B1 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934265
+Bochicchio, C (2021): Age determination of KAM12-B3 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934266
+Bochicchio, C (2021): Calibrated ages of KAM12-B1 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929511
+Bochicchio, C (2021): Calibrated ages of KAM12-B3 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929531
+Bochicchio, C (2021): Geochemistry of KAM12-B1 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927777
+Bochicchio, C (2021): Geochemistry of KAM12-B3 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927780
+Booth, RK (2021): Age determination of Irwin Smith Bog (IRW_BOOTH) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934776
+Booth, RK (2021): Calibrated ages of Irwin Smith Bog (IRW_BOOTH) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929852
+Booth, RK (2021): Geochemistry of Irwin Smith Bog (IRW_BOOTH) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.928256
+Borren, W (2018): Age determination of 86-Kvartal_coreZh0 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890543
+Borren, W (2018): Age determination of Vasyugan_coreV21 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890554
+Borren, W (2018): Geochemistry of 86-Kvartal_coreZh0 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890527
+Borren, W (2018): Geochemistry of Vasyugan_coreV21 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890538
+Bunbury, J (2018): Age determination of VC04-06_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890555
+Bunbury, J (2018): Geochemistry of VC04-06_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890539
+Bunbury, J (2021): Age determination of VC04-06 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936581
+Bunbury, J (2021): Calibrated ages of VC04-06 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930490
+Bunbury, J (2021): Geochemistry of VC04-06 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928637
+Bunsen, MS; Loisel, J (2021): Geochemistry of Beef-Penguin (PAT18-BP) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.928144
+Bunsen, MS; Loisel, J (2021): Geochemistry of Mercedes-Peatland (PAT18-MP) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.928146
+Camill, P (2018): Age determination of Joey_core12 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890426
+Camill, P (2018): Age determination of Joey_core15 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890427
+Camill, P (2018): Age determination of Joey_core17 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890428
+Camill, P (2018): Age determination of Joey_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890429
+Camill, P (2018): Age determination of Joey_core5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890430
+Camill, P (2018): Age determination of Joey_core7 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890431
+Camill, P (2018): Age determination of Lake396_core3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890436
+Camill, P (2018): Age determination of Lake785_core4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890437
+Camill, P (2018): Age determination of Shuttle_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890438
+Camill, P (2018): Age determination of Unit_core4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890439
+Camill, P (2018): Geochemistry of Joey_core12 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890405
+Camill, P (2018): Geochemistry of Joey_core15 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890406
+Camill, P (2018): Geochemistry of Joey_core17 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890407
+Camill, P (2018): Geochemistry of Joey_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890408
+Camill, P (2018): Geochemistry of Joey_core5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890409
+Camill, P (2018): Geochemistry of Joey_core7 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890410
+Camill, P (2018): Geochemistry of Lake396_core3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890415
+Camill, P (2018): Geochemistry of Lake785_core4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890416
+Camill, P (2018): Geochemistry of Shuttle_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890417
+Camill, P (2018): Geochemistry of Unit_core4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890418
+Camill, P (2021): Age determinatio of Joey_core5 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936583
+Camill, P (2021): Age determination of Joey (core15) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935063
+Camill, P (2021): Age determination of Joey_core12 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936585
+Camill, P (2021): Age determination of Joey_core2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936582
+Camill, P (2021): Age determination of Joey_core7 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936584
+Camill, P (2021): Age determination of Lake369 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935727
+Camill, P (2021): Age determination of Lake785 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935728
+Camill, P (2021): Age determination of Shuttle (SHU) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936520
+Camill, P (2021): Age determination of Unit (UNI) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935723
+Camill, P (2021): Calibrated ages of Joey (core15) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929999
+Camill, P (2021): Calibrated ages of Joey_core12 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930502
+Camill, P (2021): Calibrated ages of Joey_core2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930491
+Camill, P (2021): Calibrated ages of Joey_core5 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930492
+Camill, P (2021): Calibrated ages of Joey_core7 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930501
+Camill, P (2021): Calibrated ages of Lake369 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930168
+Camill, P (2021): Calibrated ages of Lake785 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930169
+Camill, P (2021): Calibrated ages of Shuttle (SHU) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930181
+Camill, P (2021): Calibrated ages of Unit (UNI) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930127
+Camill, P (2021): Geochemistry of Joey (core15) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928425
+Camill, P (2021): Geochemistry of Joey_core12 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928643
+Camill, P (2021): Geochemistry of Joey_core2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928638
+Camill, P (2021): Geochemistry of Joey_core5 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928640
+Camill, P (2021): Geochemistry of Joey_core7 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928641
+Camill, P (2021): Geochemistry of Lake369 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928622
+Camill, P (2021): Geochemistry of Lake785 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928623
+Camill, P (2021): Geochemistry of Shuttle (SHU) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928630
+Camill, P (2021): Geochemistry of Unit (UNI) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928559
+Carless, D (2021): Age determination of Craig y Cilau peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934336
+Carless, D (2021): Age determination of Gwaun Nant Ddu (GND) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934834
+Carless, D (2021): Age determination of Mawnbwll Du Mawr (MBM) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934835
+Carless, D (2021): Calibrated ages of Craig y Cilau peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929547
+Carless, D (2021): Calibrated ages of Gwaun Nant Ddu (GND) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929860
+Carless, D (2021): Calibrated ages of Mawnbwll Du Mawr (MBM) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929861
+Carless, D (2021): Geochemistry of Craig y Cilau peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927850
+Carless, D (2021): Geochemistry of Gwaun Nant Ddu (GND) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.928262
+Carless, D (2021): Geochemistry of Mawnbwll Du Mawr (MBM) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.928264
+Charman, DJ (2018): Age determination of Burnt_Village_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890495
+Charman, DJ (2018): Age determination of Petite_Bog_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890550
+Charman, DJ (2018): Age determination of Sidney_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890510
+Charman, DJ (2018): Geochemistry of Burnt_Village_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890472
+Charman, DJ (2018): Geochemistry of Petite_Bog_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890534
+Charman, DJ (2018): Geochemistry of Sidney_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890487
+Charman, DJ (2021): Age determination of Burnt Village (core 1) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934641
+Charman, DJ (2021): Age determination of Fenvyesteto (FEN-04) peat core from Romania. PANGAEA, https://doi.org/10.1594/PANGAEA.934165
+Charman, DJ (2021): Age determination of Petite Bog (PTB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934930
+Charman, DJ (2021): Calibrated ages of Burnt Village (core 1) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929737
+Charman, DJ (2021): Calibrated ages of Fenvyesteto (FEN-04) peat core from Romania. PANGAEA, https://doi.org/10.1594/PANGAEA.929446
+Charman, DJ (2021): Calibrated ages of Petite Bog (PTB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929900
+Charman, DJ (2021): Calibrated ages of Sidney Bog peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929654
+Charman, DJ (2021): Geochemistry of Burnt Village (core 1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928172
+Charman, DJ (2021): Geochemistry of Fenvyesteto (FEN-04) peat core from Romania. PANGAEA, https://doi.org/10.1594/PANGAEA.927710
+Charman, DJ (2021): Geochemistry of Petite Bog (PTB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928347
+Charman, DJ (2021): Geochemistry of Sidney Bog peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927972
+Charman, DJ (2022): Age determination of Sidney Bog peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.941134
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 1B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934628
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 2A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934633
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 2B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934634
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 3A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934635
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 3B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934636
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 4A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934637
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 4B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934638
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 5A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934639
+Charman, DJ; Gallego-Sala, AV (2021): Age determination of Sebangau swamp forest (SEB 5B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934640
+Charman, DJ; Gallego-Sala, AV (2021): Age determination without Pb210 of Sebangau swamp forest (SEB 1A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934627
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages of Sebangau swamp forest (SEB 4B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929732
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 1A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929710
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 1B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929723
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 2A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929724
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 2B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929725
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 3A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929727
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 3B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930081
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 4A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929731
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 5A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929734
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages with Pb210 of Sebangau swamp forest (SEB 5B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929736
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 1A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930062
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 1B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930060
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 2A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930066
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 2B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930072
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 3A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930077
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 3B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929729
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 4A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930083
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 5A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930088
+Charman, DJ; Gallego-Sala, AV (2021): Calibrated ages without Pb210 of Sebangau swamp forest (SEB 5B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.930089
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 1A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928066
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 1B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928067
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 2A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928068
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 2B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928070
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 3A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928071
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 3B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928072
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 4A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928074
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 4B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928075
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 5A) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928076
+Charman, DJ; Gallego-Sala, AV (2021): Geochemistry of Sebangau swamp forest (SEB 5B) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.928077
+Clifford, M; Booth, RK; Klein, ES (2021): Age determination of Burns Bog peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935093
+Clifford, M; Booth, RK; Klein, ES (2021): Calibrated ages of Burns Bog peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930108
+Clifford, M; Booth, RK; Klein, ES (2021): Geochemistry of Burns Bog peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928437
+Clifford, M; Klein, ES; Booth, RK (2021): Age determination of Surrey Bog (SUR) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936499
+Clifford, M; Klein, ES; Booth, RK (2021): Calibrated ages of Surrey Bog (SUR) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930129
+Clifford, M; Klein, ES; Booth, RK (2021): Geochemistry of Surrey Bog (SUR) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928560
+Clifford, M; Nichols, J; Huang, Y (2021): Age determination of Great Heath peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934836
+Clifford, M; Nichols, J; Huang, Y (2021): Calibrated ages of Great Heath peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929862
+Clifford, M; Nichols, J; Huang, Y (2021): Geochemistry of Great Heath peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.928265
+de Jong, R (2021): Age determination of Undarsmosse Bog peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934333
+de Jong, R (2021): Calibrated ages of Undarsmosse Bog peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929543
+de Jong, R (2021): Geochemistry of Undarsmosse Bog peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927847
+de Jong, R; Björck, S (2021): Age determination of Store Mosse Bog (SM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934833
+de Jong, R; Björck, S (2021): Calibrated ages of Store Mosse Bog (SM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929858
+de Jong, R; Björck, S (2021): Geochemistry of Store Mosse Bog (SM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.928261
+De Vleeschouwer, F (2021): Age determination of Misten bog (MIS-08-06-W) peat core from eastern Belgium. PANGAEA, https://doi.org/10.1594/PANGAEA.934123
+De Vleeschouwer, F (2021): Age determination of Slowinskie Blota peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.934122
+De Vleeschouwer, F (2021): Calibrated ages of Misten bog (MIS-08-06-W) peat core from eastern Belgium. PANGAEA, https://doi.org/10.1594/PANGAEA.929338
+De Vleeschouwer, F (2021): Calibrated ages of Slowinskie Blota peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.929336
+De Vleeschouwer, F (2021): Geochemistry of Misten bog (MIS-08-06-W) peat core from eastern Belgium. PANGAEA, https://doi.org/10.1594/PANGAEA.927532
+De Vleeschouwer, F (2021): Geochemistry of Slowinskie Blota peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.927465
+Fialkiewicz-Koziel, B (2021): Age determination of Bagno Mikoleska peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.934115
+Fialkiewicz-Koziel, B (2021): Age determination of Puscizna Mala peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.934120
+Fialkiewicz-Koziel, B (2021): Calibrated ages of Bagno Mikoleska peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.929310
+Fialkiewicz-Koziel, B (2021): Calibrated ages of Puscizna Mala peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.929313
+Fialkiewicz-Koziel, B (2021): Geochemistry of Bagno Mikoleska peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.927461
+Fialkiewicz-Koziel, B (2021): Geochemistry of Puscizna Mala peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.927463
+Finkelstein, SA (2021): Calibrated ages of Wylde Lake Bog (WYL) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930130
+Finkelstein, SA (2021): Geochemistry of Wylde Lake Bog (WYL) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928561
+Finkelstein, SA (2022): Age determination of Wylde Lake Bog (WYL) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.941079
+Fraser, M (2021): Age determination of Liffey Head Bog 1 peat core from northern Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.934126
+Fraser, M (2021): Calibrated ages of Ballyduff Bog peat core from Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.929356
+Fraser, M (2021): Calibrated ages of Liffey Head Bog 1 peat core from northern Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.929358
+Fraser, M (2021): Geochemistry of Ballyduff Bog peat core from Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.927533
+Fraser, M (2021): Geochemistry of Liffey Head Bog 1 peat core from northern Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.927535
+Fraser, M (2022): Age determination of Ballyduff Bog peat core from Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.941098
+Garneau, M (2018): Age determination of Aero peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890494
+Garneau, M (2018): Age determination of La_Grande_coreL2T2C2-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890434
+Garneau, M (2018): Age determination of La_Grande_coreL3T1C2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890448
+Garneau, M (2018): Age determination of Ours_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890503
+Garneau, M (2018): Age determination of Ours_core4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890504
+Garneau, M (2018): Age determination of Ours_core5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890505
+Garneau, M (2018): Geochemistry of Aero peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890471
+Garneau, M (2018): Geochemistry of La_Grande_coreL2T2C2-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890413
+Garneau, M (2018): Geochemistry of La_Grande_coreL3T1C2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890414
+Garneau, M (2018): Geochemistry of Ours_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890480
+Garneau, M (2018): Geochemistry of Ours_core4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890481
+Garneau, M (2018): Geochemistry of Ours_core5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890482
+Garneau, M (2021): Age determination of Aero (AERO-1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934829
+Garneau, M (2021): Age determination of Aero (AERO-2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934839
+Garneau, M (2021): Age determination of Aero (AERO-4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934909
+Garneau, M (2021): Age determination of Aero (AERO-5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934910
+Garneau, M (2021): Age determination of Aero (AERO-M2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934911
+Garneau, M (2021): Age determination of Aero (AERO-M4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934912
+Garneau, M (2021): Age determination of Baie bog (BAIE) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934913
+Garneau, M (2021): Age determination of La Grande Riviere (L1T1C2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935088
+Garneau, M (2021): Age determination of Lac Le Caron (LLCMap1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934916
+Garneau, M (2021): Age determination of Lac Le Caron (LLCRiP2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934917
+Garneau, M (2021): Age determination of Le Grande Riviere (L2T2C2-2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935086
+Garneau, M (2021): Age determination of Le Grande Riviere (LC-T1-C2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935090
+Garneau, M (2021): Age determination of Le Grande Riviere (LG2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935089
+Garneau, M (2021): Age determination of Mer Bleue (MB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934908
+Garneau, M (2021): Age determination of MORT peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934723
+Garneau, M (2021): Age determination of Mosaik RiP2 (MOSRiP2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935020
+Garneau, M (2021): Age determination of OURS_M3 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935060
+Garneau, M (2021): Age determination of OURS_M5 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935061
+Garneau, M (2021): Age determination of OURS, core 5 (OURS_5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935059
+Garneau, M (2021): Calibrated ages of Aero (AERO-1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929868
+Garneau, M (2021): Calibrated ages of Aero (AERO-2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929870
+Garneau, M (2021): Calibrated ages of Aero (AERO-4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929871
+Garneau, M (2021): Calibrated ages of Aero (AERO-5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929875
+Garneau, M (2021): Calibrated ages of Aero (AERO-M2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929877
+Garneau, M (2021): Calibrated ages of Aero (AERO-M4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929883
+Garneau, M (2021): Calibrated ages of Baie bog (BAIE) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929884
+Garneau, M (2021): Calibrated ages of Lac Le Caron (LLCMap1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929896
+Garneau, M (2021): Calibrated ages of Lac Le Caron (LLCRiP2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929898
+Garneau, M (2021): Calibrated ages of Le Grande Riviere (L1T1C2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930110
+Garneau, M (2021): Calibrated ages of Le Grande Riviere (L2T2C2-2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930109
+Garneau, M (2021): Calibrated ages of Le Grande Riviere (LC-T1-C2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930115
+Garneau, M (2021): Calibrated ages of Le Grande Riviere (LG2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930112
+Garneau, M (2021): Calibrated ages of Mer Bleue (MB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929889
+Garneau, M (2021): Calibrated ages of MORT peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929774
+Garneau, M (2021): Calibrated ages of Mosaik RiP2 (MOSRiP2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929971
+Garneau, M (2021): Calibrated ages of OURS_M3 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929988
+Garneau, M (2021): Calibrated ages of OURS_M5 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929995
+Garneau, M (2021): Calibrated ages of OURS, core 5 (OURS_5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929981
+Garneau, M (2021): Geochemistry of Aero (AERO-1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928298
+Garneau, M (2021): Geochemistry of Aero (AERO-2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928299
+Garneau, M (2021): Geochemistry of Aero (AERO-4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928301
+Garneau, M (2021): Geochemistry of Aero (AERO-5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928303
+Garneau, M (2021): Geochemistry of Aero (AERO-M2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928304
+Garneau, M (2021): Geochemistry of Aero (AERO-M4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928305
+Garneau, M (2021): Geochemistry of Baie bog (BAIE) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928306
+Garneau, M (2021): Geochemistry of La Grande Riviere (L1T1C2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928440
+Garneau, M (2021): Geochemistry of La Grande Riviere (L2T2C2-2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928439
+Garneau, M (2021): Geochemistry of La Grande Riviere (LC-T1-C2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928443
+Garneau, M (2021): Geochemistry of La Grande Riviere (LG2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928442
+Garneau, M (2021): Geochemistry of Lac Le Caron (LLCMap1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928310
+Garneau, M (2021): Geochemistry of Lac Le Caron (LLCRiP2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928338
+Garneau, M (2021): Geochemistry of Mer Bleue (MB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928308
+Garneau, M (2021): Geochemistry of MORT peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928184
+Garneau, M (2021): Geochemistry of Mosaik RiP2 (MOSRiP2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928382
+Garneau, M (2021): Geochemistry of OURS_M3 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928387
+Garneau, M (2021): Geochemistry of OURS_M5 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928388
+Garneau, M (2021): Geochemistry of OURS, core 5 (OURS_5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928386
+Garneau, M; Lamarre, A (2021): Age determination of KUJU (BF2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936503
+Garneau, M; Lamarre, A (2021): Age determination of KUJU (PD2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936502
+Garneau, M; Lamarre, A (2021): Calibrated ages of KUJU (BF2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930179
+Garneau, M; Lamarre, A (2021): Calibrated ages of KUJU (PD2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930170
+Garneau, M; Lamarre, A (2021): Geochemistry of KUJU (BF2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928624
+Garneau, M; Lamarre, A (2021): Geochemistry of KUJU (PD2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928629
+Garneau, M; Magnan, G (2021): Age determination of LEBEL peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934914
+Garneau, M; Magnan, G (2021): Age determination of MANIC (MAN) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935726
+Garneau, M; Magnan, G (2021): Calibrated ages of LEBEL peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929891
+Garneau, M; Magnan, G (2021): Calibrated ages of MANIC (MAN) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930148
+Garneau, M; Magnan, G (2021): Geochemistry of LEBEL peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928307
+Garneau, M; Magnan, G (2021): Geochemistry of MANIC (MAN) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928586
+Garneau, M; Pratte, S (2021): Age determination of Baie2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935095
+Garneau, M; Pratte, S (2021): Calibrated ages of Baie2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930117
+Garneau, M; Pratte, S (2021): Geochemistry of Baie2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928553
+Garneau, M; van Bellen, S (2021): Age determination of Ours (Core 1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934933
+Garneau, M; van Bellen, S (2021): Age determination of OURS, core 4 (OURS_4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935024
+Garneau, M; van Bellen, S (2021): Calibrated ages of Ours (Core 1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929901
+Garneau, M; van Bellen, S (2021): Calibrated ages of OURS, core 4 (OURS_4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929980
+Garneau, M; van Bellen, S (2021): Geochemistry of Ours (Core 1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928348
+Garneau, M; van Bellen, S (2021): Geochemistry of OURS, core 4 (OURS_4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928385
+Hapsari, KA (2021): Age determination of Sungai Buluh peat core from Sumatra, Indonesia. PANGAEA, https://doi.org/10.1594/PANGAEA.934112
+Hapsari, KA (2021): Calibrated ages of Sungai Buluh peat core from Sumatra, Indonesia. PANGAEA, https://doi.org/10.1594/PANGAEA.929306
+Hapsari, KA (2021): Geochemistry of Sungai Buluh peat core from Sumatra, Indonesia. PANGAEA, https://doi.org/10.1594/PANGAEA.927456
+Holmquist, JR (2018): Age determination of JBL1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890420
+Holmquist, JR (2018): Age determination of JBL2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890421
+Holmquist, JR (2018): Age determination of JBL3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890446
+Holmquist, JR (2018): Age determination of JBL4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890423
+Holmquist, JR (2018): Age determination of JBL5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890424
+Holmquist, JR (2018): Age determination of JBL7 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890447
+Holmquist, JR (2018): Age determination of JBL8 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890425
+Holmquist, JR (2018): Geochemistry of JBL1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890398
+Holmquist, JR (2018): Geochemistry of JBL2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890399
+Holmquist, JR (2018): Geochemistry of JBL3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890400
+Holmquist, JR (2018): Geochemistry of JBL4 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890401
+Holmquist, JR (2018): Geochemistry of JBL5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890402
+Holmquist, JR (2018): Geochemistry of JBL7 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890403
+Holmquist, JR (2018): Geochemistry of JBL8 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890404
+Holmquist, JR (2021): Age determinatio of JBL2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935015
+Holmquist, JR (2021): Age determination of JBL 2008 3 (JBL3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935065
+Holmquist, JR (2021): Age determination of JBL 2008 4 (JBL4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935066
+Holmquist, JR (2021): Age determination of JBL 2008 5 (JBL5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935067
+Holmquist, JR (2021): Age determination of JBL 2008 6 (JBL6) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935068
+Holmquist, JR (2021): Age determination of JBL 2008 7 (JBL7) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935069
+Holmquist, JR (2021): Age determination of JBL1 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935014
+Holmquist, JR (2021): Age determination of JBL8 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935016
+Holmquist, JR (2021): Calibrated ages of JBL 2008 3 (JBL3) peat core from Canadal. PANGAEA, https://doi.org/10.1594/PANGAEA.930001
+Holmquist, JR (2021): Calibrated ages of JBL 2008 4 (JBL4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930002
+Holmquist, JR (2021): Calibrated ages of JBL 2008 5 (JBL5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930012
+Holmquist, JR (2021): Calibrated ages of JBL 2008 6 (JBL6) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930106
+Holmquist, JR (2021): Calibrated ages of JBL 2008 7 (JBL7) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930107
+Holmquist, JR (2021): Calibrated ages of JBL1 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929905
+Holmquist, JR (2021): Calibrated ages of JBL2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929906
+Holmquist, JR (2021): Calibrated ages of JBL8 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929908
+Holmquist, JR (2021): Geochemistry of JBL 2008 3 (JBL3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928428
+Holmquist, JR (2021): Geochemistry of JBL 2008 4 (JBL4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928431
+Holmquist, JR (2021): Geochemistry of JBL 2008 5 (JBL5) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928433
+Holmquist, JR (2021): Geochemistry of JBL 2008 6 (JBL6) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928435
+Holmquist, JR (2021): Geochemistry of JBL 2008 7 (JBL7) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928436
+Holmquist, JR (2021): Geochemistry of JBL1 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928375
+Holmquist, JR (2021): Geochemistry of JBL2 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928376
+Holmquist, JR (2021): Geochemistry of JBL8 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928377
+Hribjlan, J (2021): Age determination of Antisana (A2) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.934442
+Hribjlan, J (2021): Age determination of Cayambe-Coca (core C2) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934621
+Hribjlan, J (2021): Age determination of Cayambe-Coca (core C3) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.934622
+Hribjlan, J (2021): Age determination of Cayambe-Coca (core C4) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.934631
+Hribjlan, J (2021): Age determination of Cayambe-Coca (core C5) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.934623
+Hribjlan, J (2021): Calibrated ages of Antisana (A2) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.929681
+Hribjlan, J (2021): Calibrated ages of Cayambe-Coca (core C2) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929703
+Hribjlan, J (2021): Calibrated ages of Cayambe-Coca (core C3) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.929705
+Hribjlan, J (2021): Calibrated ages of Cayambe-Coca (core C5) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.929707
+Hribjlan, J (2021): Geochemistry of Antisana (A2) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.927978
+Hribjlan, J (2021): Geochemistry of Cayambe-Coca (core C2) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.928061
+Hribjlan, J (2021): Geochemistry of Cayambe-Coca (core C3) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.928062
+Hribjlan, J (2021): Geochemistry of Cayambe-Coca (core C4) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.928063
+Hribjlan, J (2021): Geochemistry of Cayambe-Coca (core C5) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.928064
+Hribljan, JA (2021): Age determination of Cayambe-Coca (core C6) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.934624
+Hribljan, JA (2021): Calibrated ages of Cayambe-Coca (core C6) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.929708
+Hribljan, JA (2021): Geochemistry of Cayambe-Coca (core C6) peat core from Ecuador. PANGAEA, https://doi.org/10.1594/PANGAEA.928065
+Hughes, PDM (2021): Age determination of Nordan's Pond Bog (NDN02/1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934724
+Hughes, PDM (2021): Age determination of Piyashiri (PYR) peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.934068
+Hughes, PDM (2021): Age determination of Utasai Bog peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.934072
+Hughes, PDM (2021): Calibrated ages of Nordan's Pond Bog (NDN02/1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929776
+Hughes, PDM (2021): Calibrated ages of Piyashiri (PYR) peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.929269
+Hughes, PDM (2021): Calibrated ages of Utasai Bog peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.929271
+Hughes, PDM (2021): Geochemistry of Nordan's Pond Bog (NDN02/1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928185
+Hughes, PDM (2021): Geochemistry of Piyashiri (PYR) peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.927411
+Hughes, PDM (2021): Geochemistry of Utasai Bog peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.927412
+Ireland, AW (2021): Age determination of Fallison Bog peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934393
+Ireland, AW (2021): Age determination of Swanson peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934439
+Ireland, AW (2021): Calibrated ages of Fallison Bog peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929611
+Ireland, AW (2021): Calibrated ages of Swanson peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929656
+Ireland, AW (2021): Geochemistry of Fallison Bog peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927907
+Ireland, AW (2021): Geochemistry of Titus Bog peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927974
+Jones, MC (2018): Age determination of Horse_Trail_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890213
+Jones, MC (2018): Age determination of Swanson Fen peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.889937
+Jones, MC (2018): Geochemistry of Horse_Trail_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890199
+Jones, MC (2018): Geochemistry of Swanson Fen peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.889936
+Jones, MC (2021): Age determination of Horse Trail peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934395
+Jones, MC (2021): Age determination of Swanson peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934438
+Jones, MC (2021): Calibrated ages of Horse Trail peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929646
+Jones, MC (2021): Calibrated ages of Swanson peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929655
+Jones, MC (2021): Geochemistry of Horse Trail peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927921
+Jones, MC (2021): Geochemistry of Swanson peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927973
+Karofeld, E; Alm, J (2021): Calibrated ages of Mannikjarve bog (KOE:ACCROTELM/EST) peat core from Estonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929372
+Karofeld, E; Alm, J (2021): Geochemistry of Mannikjarve bog (KOE:ACCROTELM/EST) peat core from Estonia. PANGAEA, https://doi.org/10.1594/PANGAEA.927658
+Karofeld, E; Alm, J (2022): Age determination of Mannikjarve bog (KOE:ACCROTELM/EST) peat core from Estonia. PANGAEA, https://doi.org/10.1594/PANGAEA.941139
+Klein, ES; Booth, RK (2021): Age determination of Fish Creek (FC) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934394
+Klein, ES; Booth, RK (2021): Age determination of Point Lena (PL) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934398
+Klein, ES; Booth, RK (2021): Calibrated ages of Fish Creek (FC) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929644
+Klein, ES; Booth, RK (2021): Calibrated ages of Point Lena (PL) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929652
+Klein, ES; Booth, RK (2021): Geochemistry of Fish Creek (FC) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927920
+Klein, ES; Booth, RK (2021): Geochemistry of Point Lena (PL) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927969
+Kokfelt, U (2018): Age determination of Stordalen peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890513
+Kokfelt, U (2018): Geochemistry of Stordalen peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890490
+Kokfelt, U (2021): Age determination of Stordalen 2 peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934330
+Kokfelt, U (2021): Calibrated ages of Stordalen 2 peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929541
+Kokfelt, U (2021): Geochemistry of Stordalen 2 peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927845
+Kuhry, P (2018): Age determination of Slave_Lake peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890388
+Kuhry, P (2018): Geochemistry of Slave_Lake peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890353
+Lacourse, T (2021): Age determination of Port McNeill (PMB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935062
+Lacourse, T (2021): Calibrated ages of Port McNeill (PMB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929998
+Lacourse, T (2021): Geochemistry of Port McNeill (PMB) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928424
+Lamarre, A (2018): Age determination of KUJU peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890433
+Lamarre, A (2018): Geochemistry of KUJU peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890412
+Lamentowicz, M (2021): Age determination of Bagna and Stazka peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.934113
+Lamentowicz, M (2021): Age determination of Mukhrino peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934166
+Lamentowicz, M (2021): Calibrated ages of Bagna and Stazka peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.929309
+Lamentowicz, M (2021): Calibrated ages of Mukhrino peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929448
+Lamentowicz, M (2021): Geochemistry of Bagna and Stazka peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.927457
+Lamentowicz, M (2021): Geochemistry of Mukhrino peat core from Siberia, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927712
+Lamentowicz, M; Marcisz, K (2021): Age determination of Linje mire peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.934118
+Lamentowicz, M; Marcisz, K (2021): Calibrated ages of Linje mire peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.929311
+Lamentowicz, M; Marcisz, K (2021): Geochemistry of Linje mire peat core from Poland. PANGAEA, https://doi.org/10.1594/PANGAEA.927462
+Large, D (2018): Age determination of Hongyuan_coreHYLK1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890547
+Large, D (2018): Geochemistry of Hongyuan_coreHYLK1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890531
+Large, D (2021): Age determination of Hongyuan (HYLK1) peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.934138
+Large, D (2021): Calibrated ages of Hongyuan (HYLK1) peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.929365
+Large, D (2021): Geochemistry of Hongyuan (HYLK1) peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.927537
+Lavoie, M (2018): Age determination of Covey_Hill peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890496
+Lavoie, M (2018): Geochemistry of Covey_Hill peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890473
+Lavoie, M (2021): Age determination of Covey Hill (core 1) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934642
+Lavoie, M (2021): Calibrated ages of Covey Hill (core 1) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929744
+Lavoie, M (2021): Geochemistry of Covey Hill (core 1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928175
+Loisel, J (2018): Age determination of KAM12-C1_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890548
+Loisel, J (2018): Age determination of Petersville peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890222
+Loisel, J (2018): Geochemistry of KAM12-C1_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890532
+Loisel, J (2018): Geochemistry of Petersville peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890208
+Loisel, J (2021): Age determination of Cerro Negro (PAT-CN-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934444
+Loisel, J (2021): Age determination of Escondido (PAT-ESC-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934445
+Loisel, J (2021): Age determination of Harberton Bog (PAT-HB-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934448
+Loisel, J (2021): Age determination of Petersville peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934389
+Loisel, J (2021): Age determination of Upper Andorra Valley (PAT-UAV-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934620
+Loisel, J (2021): Calibrated ages of Cerro Negro (PAT-CN-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929685
+Loisel, J (2021): Calibrated ages of Escondido (PAT-ESC-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929686
+Loisel, J (2021): Calibrated ages of Harberton Bog (PAT-HB-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929687
+Loisel, J (2021): Calibrated ages of Petersville peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929651
+Loisel, J (2021): Calibrated ages of Upper Andorra Valley (PAT-UAV-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929702
+Loisel, J (2021): Geochemistry of Cerro Negro (PAT-CN-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.927980
+Loisel, J (2021): Geochemistry of Escondido (PAT-ESC-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.927981
+Loisel, J (2021): Geochemistry of Harberton Bog (PAT-HB-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.928052
+Loisel, J (2021): Geochemistry of Petersville peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927968
+Loisel, J (2021): Geochemistry of Upper Andorra Valley (PAT-UAV-2010) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.928060
+Loisel, J; Bochicchio, C (2021): Age determination of KAM12-C1 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934267
+Loisel, J; Bochicchio, C (2021): Calibrated ages of KAM12-C1 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929536
+Loisel, J; Bochicchio, C (2021): Geochemistry of KAM12-C1 peat core from Kamchatka, Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927781
+MacDonald, GM (2018): Age determination of D127_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890497
+MacDonald, GM (2018): Age determination of E110_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890498
+MacDonald, GM (2018): Age determination of SIB06_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890551
+MacDonald, GM (2018): Age determination of V34_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890553
+MacDonald, GM (2018): Geochemistry of D127_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890474
+MacDonald, GM (2018): Geochemistry of E110_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890475
+MacDonald, GM (2018): Geochemistry of SIB06_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890535
+MacDonald, GM (2018): Geochemistry of V34_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890537
+MacDonald, GM (2021): Age determination of SIB06 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934831
+MacDonald, GM (2021): Calibrated ages of SIB06 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929855
+MacDonald, GM (2021): Geochemistry of SIB06 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.928258
+Mackay, H (2021): Age determination of Framboise Bog (FBB12) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.934728
+Mackay, H (2021): Age determination of Jeffrey's Bog (JRB12) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934730
+Mackay, H (2021): Age determination of Saco Heath (SCH10) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934390
+Mackay, H (2021): Age determination of Villagedale Bog (VDB12) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934729
+Mackay, H (2021): Calibrated ages of Framboise Bog (FBB12) peat core from Borneo. PANGAEA, https://doi.org/10.1594/PANGAEA.929745
+Mackay, H (2021): Calibrated ages of Jeffrey's Bog (JRB12) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929762
+Mackay, H (2021): Calibrated ages of Saco Heath (SCH10) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929653
+Mackay, H (2021): Calibrated ages of Villagedale Bog (VDB12) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929761
+Mackay, H (2021): Geochemistry of Framboise Bog (FBB12) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928177
+Mackay, H (2021): Geochemistry of Jeffrey's Bog (JRB12) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928182
+Mackay, H (2021): Geochemistry of Saco Heath (SCH10) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927970
+Mackay, H (2021): Geochemistry of Villagedale Bog (VDB12) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928181
+Magnan, G (2018): Age determination of Lebel_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890500
+Magnan, G (2018): Age determination of Plaine_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890506
+Magnan, G (2018): Geochemistry of Lebel_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890477
+Magnan, G (2018): Geochemistry of Plaine_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890483
+Magnan, G (2021): Age determination of PLAINE (PLA) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935724
+Magnan, G (2021): Calibrated ages of PLAINE (PLA) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930139
+Magnan, G (2021): Geochemistry of PLAINE (PLA) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928583
+Mäkilä, M (2018): Age determination of Saarisuo_coreB800 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890509
+Mäkilä, M (2018): Geochemistry of Saarisuo_coreB800 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890486
+Mäkilä, M (2021): Age determination of Haukkasuo HAU (HAK (A800+200)) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934150
+Mäkilä, M (2021): Age determination of Hautasuo-Tupakkisuo HT (A1100#2) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934151
+Mäkilä, M (2021): Age determination of Saarisuo SAAR (B400) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934153
+Mäkilä, M (2021): Age determination of Teravuoma (TEU) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934155
+Mäkilä, M (2021): Age determination with Pb210 of Hanhijanka HAN (H P3) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934149
+Mäkilä, M (2021): Age determination without Pb210 of Luovuoma LUO (LVO) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934152
+Mäkilä, M (2021): Calibrated ages of Haukkasuo HAU (HAK (A800+200)) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929388
+Mäkilä, M (2021): Calibrated ages of Hautasuo-Tupakkisuo HT (A1100#2) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929395
+Mäkilä, M (2021): Calibrated ages of Saarisuo SAAR (B400) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929398
+Mäkilä, M (2021): Calibrated ages of Teravuoma (TEU) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929407
+Mäkilä, M (2021): Calibrated ages with Pb210 of Hanhijanka HAN (H P3) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929373
+Mäkilä, M (2021): Calibrated ages with Pb210 of Luovuoma LUO (LVO) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929397
+Mäkilä, M (2021): Calibrated ages without Pb210 of Hanhijanka HAN (H P3) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929375
+Mäkilä, M (2021): Calibrated ages without Pb210 of Luovuoma LUO (LVO) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.930030
+Mäkilä, M (2021): Geochemistry of Hanhijanka HAN (H P3) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.927659
+Mäkilä, M (2021): Geochemistry of Haukkasuo HAU (HAK (A800+200)) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.927661
+Mäkilä, M (2021): Geochemistry of Hautasuo-Tupakkisuo HT (A1100#2) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.927662
+Mäkilä, M (2021): Geochemistry of Luovuoma LUO (LVO) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.927699
+Mäkilä, M (2021): Geochemistry of Saarisuo SAAR (B400) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.927688
+Mäkilä, M (2021): Geochemistry of Teravuoma (TEU) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.927700
+Marchant, R (2021): Age determination of Dabaso (DAB) peat core from Mida Creek Mangroves, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.933369
+Marchant, R (2021): Age determination of Kimana (KIM) peat core from Kimana Game Reserve, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.933371
+Marchant, R (2021): Age determination of Kitulo (K-NDA) peat core from Tanzania, East Africa. PANGAEA, https://doi.org/10.1594/PANGAEA.933374
+Marchant, R (2021): Age determination of Luala (LUL) peat core from Kitulo Plateau, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.933375
+Marchant, R (2021): Age determination of Marula Swamp (MAU) peat core from Lakipia Plateau, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.933507
+Marchant, R (2021): Age determination of Mgundamrahia (MGU) peat core from Kakamega Forest, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.933508
+Marchant, R (2021): Age determination of Mlanga (MLA) peat core from Kitulu, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.933509
+Marchant, R (2021): Age determination of Ndanga (NDG) peat core from Kitulu, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.933511
+Marchant, R (2021): Age determination of Nyabuiyabui (NB) peat core from Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.934066
+Marchant, R (2021): Age determination of Ormakau (ORM) peat core from Ormakau Swamp, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.934062
+Marchant, R (2021): Age determination of Rumuiku (RUM) peat core from Mt. Kenya, Africa. PANGAEA, https://doi.org/10.1594/PANGAEA.934064
+Marchant, R (2021): Age determination of Sangarwe (SGW) peat core from Kakamega Forest, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.934065
+Marchant, R (2021): Age determination of Shidodo (SHD) peat core from Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.934067
+Marchant, R (2021): Calibrated ages of Dabaso (DAB) peat core from Mida Creek Mangroves, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.929003
+Marchant, R (2021): Calibrated ages of Kimana (KIM) peat core from Kimana Game Reserve, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.929011
+Marchant, R (2021): Calibrated ages of Kitulo (K-NDA) peat core from Tanzania, East Africa. PANGAEA, https://doi.org/10.1594/PANGAEA.929064
+Marchant, R (2021): Calibrated ages of Luala (LUL) peat core from Kitulo Plateau, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.929068
+Marchant, R (2021): Calibrated ages of Mlanga (MLA) peat core from Kitulu, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.929224
+Marchant, R (2021): Calibrated ages of Ndanga (NDG) peat core from Kitulu, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.929225
+Marchant, R (2021): Calibrated ages of Nyabuiyabui (NB) peat core from Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.929228
+Marchant, R (2021): Calibrated ages of Ormakau (ORM) peat core from Ormakau Swamp, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.929226
+Marchant, R (2021): Calibrated ages of Sangarwe (SGW) peat core from Kakamega Forest, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.929227
+Marchant, R (2021): Calibrated ages of Shidodo (SHD) peat core from Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.929268
+Marchant, R (2021): Geochemistry of Dabaso (DAB) peat core from Mida Creek Mangroves, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927337
+Marchant, R (2021): Geochemistry of Helpinda (HEP) peat core from the Laikipia Plateau, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927383
+Marchant, R (2021): Geochemistry of Kimana (KIM) peat core from Kimana Game Reserve, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927384
+Marchant, R (2021): Geochemistry of Kitulo (K-NDA) peat core from Tanzania, East Africa. PANGAEA, https://doi.org/10.1594/PANGAEA.927385
+Marchant, R (2021): Geochemistry of Luala (LUL) peat core from Kitulo Plateau, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.927394
+Marchant, R (2021): Geochemistry of Marula Swamp (MAU) peat core from Lakipia Plateau, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927398
+Marchant, R (2021): Geochemistry of Mgundamrahia (MGU) peat core from Kakamega Forest, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927399
+Marchant, R (2021): Geochemistry of Mlanga (MLA) peat core from Kitulu, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.927404
+Marchant, R (2021): Geochemistry of Ndanga (NDG) peat core from Kitulu, Tanzania. PANGAEA, https://doi.org/10.1594/PANGAEA.927405
+Marchant, R (2021): Geochemistry of Nyabuiyabui (NB) peat core from Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927409
+Marchant, R (2021): Geochemistry of Ormakau (ORM) peat core from Ormakau Swamp, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927406
+Marchant, R (2021): Geochemistry of Rumuiku (RUM) peat core from Mt. Kenya, Africa. PANGAEA, https://doi.org/10.1594/PANGAEA.927407
+Marchant, R (2021): Geochemistry of Sangarwe (SGW) peat core from Kakamega Forest, Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927408
+Marchant, R (2021): Geochemistry of Shidodo (SHD) peat core from Kenya. PANGAEA, https://doi.org/10.1594/PANGAEA.927410
+Martínez Cortizas, A (2021): Age determination of Pena da Cadela (PDC; PDC(L)) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.934162
+Martínez Cortizas, A (2021): Age determination of Penido Vello (PVO) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.934164
+Martínez Cortizas, A (2021): Calibrated ages of Pena da Cadela (PDC; PDC(L)) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.929432
+Martínez Cortizas, A (2021): Calibrated ages of Penido Vello (PVO) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.929444
+Martínez Cortizas, A (2021): Geochemistry of Borralleiras da Cal Grande (BLL) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.927692
+Martínez Cortizas, A (2021): Geochemistry of Pena da Cadela (PDC; PDC(L)) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.927698
+Martínez Cortizas, A (2021): Geochemistry of Penido Vello (PVO) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.927702
+Martínez Cortizas, A; Martinez-Quintana, A (2021): Age determination of Borralleiras da Cal Grande (BLL) peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934156
+Martínez Cortizas, A; Martinez-Quintana, A (2021): Calibrated ages of Borralleiras da Cal Grande (BLL) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.929415
+Martínez Cortizas, A; Silva Sánchez, N (2021): Age determination of Pasada de Lamoso (PDL) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.934161
+Martínez Cortizas, A; Silva Sánchez, N (2021): Calibrated ages of Pasada de Lamoso (PDL) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.929429
+Martínez Cortizas, A; Silva Sánchez, N (2021): Geochemistry of Pasada de Lamoso (PDL) peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.927695
+Massa, C (2021): Calibrated ages of Tasiusaq peat core from Greenland. PANGAEA, https://doi.org/10.1594/PANGAEA.929337
+Massa, C (2021): Geochemistry of Tasiusaq peat core from Greenland. PANGAEA, https://doi.org/10.1594/PANGAEA.927531
+Massa, C (2022): Age determination of Tasiusaq peat core from Greenland. PANGAEA, https://doi.org/10.1594/PANGAEA.941094
+Mathijssen, PJH (2018): Age determination of Lompolojankka_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890501
+Mathijssen, PJH (2018): Age determination of Siikaneva_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890511
+Mathijssen, PJH (2018): Geochemistry of Lompolojankka_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890478
+Mathijssen, PJH (2018): Geochemistry of Siikaneva_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890488
+Mauquoy, D; van Geel, B (2021): Age determination of Walton Moss WLM19 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926424
+Mauquoy, D; van Geel, B (2021): Calibrated ages of Walton Moss WLM19 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926409
+Mauquoy, D; van Geel, B (2021): Geochemistry of Walton Moss WLM19 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926353
+Mighall, T (2021): Age determination of Borth Bog 2 (Cors Fochno) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934335
+Mighall, T (2021): Calibrated ages of Borth Bog 2 (Cors Fochno) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929546
+Mighall, T (2021): Geochemistry of Borth Bog 2 (Cors Fochno) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927849
+Moss, PT (2021): Age determination of Moon Point Patterned Fen MP peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.934069
+Moss, PT (2021): Calibrated ages of Moon Point Patterned Fen MP peat core from Japan. PANGAEA, https://doi.org/10.1594/PANGAEA.929274
+Moss, PT (2021): Geochemistry of Moon Point Patterned Fen MP peat core from Australia. PANGAEA, https://doi.org/10.1594/PANGAEA.927414
+Nichols, J (2018): Age determination of Bear_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890212
+Nichols, J (2018): Geochemistry of Bear_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890198
+Nichols, J (2021): Age determination of Bear peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934391
+Nichols, J (2021): Age determination of Corser Bog peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934392
+Nichols, J (2021): Calibrated ages of Bear peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929579
+Nichols, J (2021): Calibrated ages of Corser Bog peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929581
+Nichols, J (2021): Geochemistry of Bear peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927883
+Nichols, J (2021): Geochemistry of Corser Bog peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927889
+Oksanen, PO (2018): Age determination of Rogovaya_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890507
+Oksanen, PO (2018): Age determination of Rogovaya_core3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890508
+Oksanen, PO (2018): Age determination of Usinsk_coreUSI1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890552
+Oksanen, PO (2018): Geochemistry of Rogovaya_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890484
+Oksanen, PO (2018): Geochemistry of Rogovaya_core3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890485
+Oksanen, PO (2018): Geochemistry of Usinsk_coreUSI1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890536
+Oksanen, PO (2021): Age determination of Rogovaya - core 2 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934263
+Oksanen, PO (2021): Age determination of Rogovaya - core 3 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934264
+Oksanen, PO (2021): Age determination of Usinsk peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934257
+Oksanen, PO (2021): Calibrated ages of Rogovaya - core 2 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929506
+Oksanen, PO (2021): Calibrated ages of Rogovaya - core 3 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929507
+Oksanen, PO (2021): Calibrated ages of Usinsk peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929489
+Oksanen, PO (2021): Geochemistry of Rogovaya - core 2 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927769
+Oksanen, PO (2021): Geochemistry of Rogovaya - core 3 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927773
+Oksanen, PO (2021): Geochemistry of Usinsk peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927717
+Orme, LC (2021): Age determination of Borth Bog 1 (Cors Fochno) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.934334
+Orme, LC (2021): Age determination of Hill Top Bog peat core from the Outer Hebrides in Scotland. PANGAEA, https://doi.org/10.1594/PANGAEA.934341
+Orme, LC (2021): Age determination of Struban Bog (STR) peat core from the Outer Hebrides in Scotland. PANGAEA, https://doi.org/10.1594/PANGAEA.934342
+Orme, LC (2021): Calibrated ages of Borth Bog 1 (Cors Fochno) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929545
+Orme, LC (2021): Calibrated ages of Hill Top Bog peat core from the Outer Hebrides in Scotland. PANGAEA, https://doi.org/10.1594/PANGAEA.929573
+Orme, LC (2021): Calibrated ages of Struban Bog (STR) peat core from the Outer Hebrides in Scotland. PANGAEA, https://doi.org/10.1594/PANGAEA.929577
+Orme, LC (2021): Geochemistry of Borth Bog 1 (Cors Fochno) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927848
+Orme, LC (2021): Geochemistry of Hill Top Bog peat core from the Outer Hebrides in Scotland. PANGAEA, https://doi.org/10.1594/PANGAEA.927875
+Orme, LC (2021): Geochemistry of Struban Bog (STR) peat core from the Outer Hebrides in Scotland. PANGAEA, https://doi.org/10.1594/PANGAEA.927878
+Packalen, M (2018): Age determination of HL02 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890419
+Packalen, M (2018): Age determination of KJ2-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890432
+Packalen, M (2018): Geochemistry of HL02 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890397
+Packalen, M (2018): Geochemistry of KJ2-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890411
+Packalen, M (2021): Age determination of HL02 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935729
+Packalen, M (2021): Age determination of HL03 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926434
+Packalen, M (2021): Age determination of KJ2-3 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935730
+Packalen, M (2021): Age determination of KJ4-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926432
+Packalen, M (2021): Age determination of VM2-5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926425
+Packalen, M (2021): Age determination of VM3-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926426
+Packalen, M (2021): Age determination of VM4-1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926427
+Packalen, M (2021): Calibrated ages of HL02 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930171
+Packalen, M (2021): Calibrated ages of HL03 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926415
+Packalen, M (2021): Calibrated ages of KJ2-3 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930174
+Packalen, M (2021): Calibrated ages of KJ4-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926413
+Packalen, M (2021): Calibrated ages of VM2-5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926410
+Packalen, M (2021): Calibrated ages of VM3-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926411
+Packalen, M (2021): Calibrated ages of VM4-1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926412
+Packalen, M (2021): Geochemistry of HL02 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928625
+Packalen, M (2021): Geochemistry of HL03 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926365
+Packalen, M (2021): Geochemistry of KJ2-3 peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928627
+Packalen, M (2021): Geochemistry of KJ4-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926364
+Packalen, M (2021): Geochemistry of VM2-5 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926356
+Packalen, M (2021): Geochemistry of VM3-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926361
+Packalen, M (2021): Geochemistry of VM4-1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926363
+Phadtare, NR (2021): Age determination of Dhakuri (PBD-1) peat core from the central higher Himalaya, India. PANGAEA, https://doi.org/10.1594/PANGAEA.934070
+Phadtare, NR (2021): Calibrated ages of Dhakuri (PBD-1) peat core from the central higher Himalaya, India. PANGAEA, https://doi.org/10.1594/PANGAEA.929278
+Phadtare, NR (2021): Geochemistry of Dhakuri (PBD-1) peat core from the central higher Himalaya, India. PANGAEA, https://doi.org/10.1594/PANGAEA.927453
+Rausch, N; Shotyk, W; Nieminen, T et al. (2021): Age determination of Harjavalta HAR peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926421
+Rausch, N; Shotyk, W; Nieminen, T et al. (2021): Calibrated ages of Harjavalta HAR peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926402
+Rausch, N; Shotyk, W; Nieminen, T et al. (2021): Calibrated ages of Hietajarvi HIJ peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926404
+Rausch, N; Shotyk, W; Nieminen, T et al. (2021): Calibrated ages of Outokumpu OutA peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926408
+Rausch, N; Shotyk, W; Nieminen, T et al. (2021): Geochemistry of Harjavalta HAR peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926348
+Rausch, N; Shotyk, W; Nieminen, T et al. (2021): Geochemistry of Hietajarvi HIJ peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926350
+Rausch, N; Shotyk, W; Nieminen, T et al. (2021): Geochemistry of Outokumpu OutA peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926352
+Robinson, SD (2018): Age determination of Martin_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890385
+Robinson, SD (2018): Geochemistry of Martin_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890350
+Robinson, SD (2021): Age determination of Martin (core1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936586
+Robinson, SD (2021): Calibrated ages of Martin (core1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930503
+Robinson, SD (2021): Geochemistry of Martin (core1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928626
+Roland, TP (2021): Age determination of Magallanes (MAG) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934618
+Roland, TP (2021): Age determination of Pulpito (PUL-14) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934775
+Roland, TP (2021): Calibrated ages of Pulpito (PUL-14) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929851
+Roland, TP (2021): Geochemistry of Magallanes (MAG) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.928057
+Roland, TP (2021): Geochemistry of Pulpito (PUL-14) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.928255
+Roland, TP; Mauquoy, D (2021): Age determination of Karukinka (KAR13-PB01A) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934449
+Roland, TP; Mauquoy, D (2021): Age determination of Karukinka (KAR13-PB01B) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.934453
+Roland, TP; Mauquoy, D (2021): Age determination of Tierra Australis (TIA12-PB01C) peat core from Argentina. PANGAEA, https://doi.org/10.1594/PANGAEA.934619
+Roland, TP; Mauquoy, D (2021): Calibrated ages of Karukinka (KAR13-PB01A) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929688
+Roland, TP; Mauquoy, D (2021): Calibrated ages of Karukinka (KAR13-PB01B) peat core from Patagonia. PANGAEA, https://doi.org/10.1594/PANGAEA.929689
+Roland, TP; Mauquoy, D (2021): Calibrated ages of Tierra Australis (TIA12-PB01C) peat core from Argentina. PANGAEA, https://doi.org/10.1594/PANGAEA.929699
+Roland, TP; Mauquoy, D (2021): Geochemistry of Karukinka (KAR13-PB01A) peat core from Chile. PANGAEA, https://doi.org/10.1594/PANGAEA.928053
+Roland, TP; Mauquoy, D (2021): Geochemistry of Karukinka (KAR13-PB01B) peat core from Chile. PANGAEA, https://doi.org/10.1594/PANGAEA.928055
+Roland, TP; Mauquoy, D (2021): Geochemistry of Tierra Australis (TIA12-PB01C) peat core from Argentina. PANGAEA, https://doi.org/10.1594/PANGAEA.928058
+Sanderson, NK (2021): Age determination of Baie (BC2A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935094
+Sanderson, NK (2021): Age determination of Morts (HP2A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936579
+Sanderson, NK (2021): Age determination of Red Bay (BS1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936500
+Sanderson, NK (2021): Age determination of Romaine (HP3A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934726
+Sanderson, NK (2021): Age determination of Vallee (BS3A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935097
+Sanderson, NK (2021): Calibrated ages of Baie (BC2A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930116
+Sanderson, NK (2021): Calibrated ages of Morts (HP2A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930184
+Sanderson, NK (2021): Calibrated ages of Red Bay (BS1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930133
+Sanderson, NK (2021): Calibrated ages of Romaine (HP3A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929830
+Sanderson, NK (2021): Calibrated ages of Vallee (BS3A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930122
+Sanderson, NK (2021): Geochemistry of Baie (BC2A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928552
+Sanderson, NK (2021): Geochemistry of Morts (HP2A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928631
+Sanderson, NK (2021): Geochemistry of Red Bay (BS1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928562
+Sanderson, NK (2021): Geochemistry of Romaine (HP3A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928187
+Sanderson, NK (2021): Geochemistry of Vallee (BS3A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928556
+Sanderson, NK; Sauvé, A (2021): Age determination of Lebel (BC1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935096
+Sanderson, NK; Sauvé, A (2021): Age determination of Plaine (HP1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936501
+Sanderson, NK; Sauvé, A (2021): Calibrated ages of Lebel (BC1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930121
+Sanderson, NK; Sauvé, A (2021): Calibrated ages of Plaine (HP1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930145
+Sanderson, NK; Sauvé, A (2021): Geochemistry of Lebel (BC1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928555
+Sanderson, NK; Sauvé, A (2021): Geochemistry of Plaine (HP1A) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928584
+Sannel, ABK (2018): Age determination of Ennadai_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890380
+Sannel, ABK (2018): Age determination of Selwyn_Lake peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890387
+Sannel, ABK (2018): Geochemistry of Ennadai_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890345
+Sannel, ABK (2018): Geochemistry of Selwyn_Lake peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890352
+Sannel, ABK (2021): Age determination of Selwyn peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934727
+Sannel, ABK (2021): Calibrated ages of Selwyn peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929835
+Sannel, ABK (2021): Geochemistry of Selwyn peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928188
+Silva Sánchez, N (2021): Age determination of Cruz do Bocelo peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934157
+Silva Sánchez, N (2021): Calibrated ages of Cruz do Bocelo peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.929426
+Silva Sánchez, N (2021): Geochemistry of Cruz do Bocelo peat core from Spain. PANGAEA, https://doi.org/10.1594/PANGAEA.927693
+Swindles, GT (2021): Age determination of Aucayacu (AUC) peat core from Peru. PANGAEA, https://doi.org/10.1594/PANGAEA.934443
+Swindles, GT (2021): Age determination of Craterpool_1 peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934275
+Swindles, GT (2021): Age determination of Craterpool_2 peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934276
+Swindles, GT (2021): Age determination of Eagle Bog (E1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934277
+Swindles, GT (2021): Age determination of Electric Bog (L1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934278
+Swindles, GT (2021): Age determination of Instrument Bog (I1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934280
+Swindles, GT (2021): Age determination of Marooned (M1-7) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934281
+Swindles, GT (2021): Age determination of Nikka (N1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934282
+Swindles, GT (2021): Age determination of Railway Bog (R1-7) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934283
+Swindles, GT (2021): Age determination of Stordalen 3 (ST-dessicating1) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934343
+Swindles, GT (2021): Calibrated ages of Aucayacu (AUC) peat core from Peru. PANGAEA, https://doi.org/10.1594/PANGAEA.929682
+Swindles, GT (2021): Calibrated ages of Dead Island bog (DI-1) peat core from northern Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.929357
+Swindles, GT (2021): Calibrated ages of Marooned (M1-7) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929539
+Swindles, GT (2021): Calibrated ages of Stordalen 3 (ST-dessicating1) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929542
+Swindles, GT (2021): Geochemistry of Aucayacu (AUC) peat core from Peru. PANGAEA, https://doi.org/10.1594/PANGAEA.927979
+Swindles, GT (2021): Geochemistry of Craterpool_1 peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927782
+Swindles, GT (2021): Geochemistry of Craterpool_2 peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927783
+Swindles, GT (2021): Geochemistry of Dead Island bog (DI-1) peat core from northern Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.927534
+Swindles, GT (2021): Geochemistry of Eagle Bog (E1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927784
+Swindles, GT (2021): Geochemistry of Electric Bog (L1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927785
+Swindles, GT (2021): Geochemistry of Instrument Bog (I1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927837
+Swindles, GT (2021): Geochemistry of Marooned (M1-7) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927840
+Swindles, GT (2021): Geochemistry of Nikka (N1-6) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927841
+Swindles, GT (2021): Geochemistry of Railway Bog (R1-7) peat core from Abisko, Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927843
+Swindles, GT (2021): Geochemistry of Stordalen 3 (ST-dessicating1) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927846
+Swindles, GT (2022): Age determination of Dead Island bog (DI-1) peat core from northern Ireland. PANGAEA, https://doi.org/10.1594/PANGAEA.941132
+Tarnocai, C (2018): Age determination of NW-BG_core10 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890217
+Tarnocai, C (2018): Age determination of NW-BG_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890218
+Tarnocai, C (2018): Age determination of NW-BG_core3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890219
+Tarnocai, C (2018): Age determination of NW-BG_core8 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890220
+Tarnocai, C (2018): Age determination of T1_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890391
+Tarnocai, C (2018): Geochemistry of NW-BG_core10 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890203
+Tarnocai, C (2018): Geochemistry of NW-BG_core2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890204
+Tarnocai, C (2018): Geochemistry of NW-BG_core3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890205
+Tarnocai, C (2018): Geochemistry of NW-BG_core8 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890206
+Tarnocai, C (2018): Geochemistry of T1_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890356
+Turner, TE (2021): Calibrated ages of Malham Tarn Moss (MTM) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.929575
+Turner, TE (2021): Geochemistry of Malham Tarn Moss (MTM) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.927877
+Turner, TE (2022): Age determination of Malham Tarn Moss (MTM) peat core from Wales. PANGAEA, https://doi.org/10.1594/PANGAEA.941140
+Väliranta, M; Alm, J (2021): Age determination of Kontolanrahka Kontola peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926423
+Väliranta, M; Alm, J (2021): Calibrated ages of Kontolanrahka Kontola peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926405
+Väliranta, M; Alm, J (2021): Geochemistry of Kontolanrahka Kontola peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.926351
+Väliranta, M; Mathijssen, PJH (2021): Age determination of Indigo (P1C3) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934259
+Väliranta, M; Mathijssen, PJH (2021): Age determination of Indigo (P2C8) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934260
+Väliranta, M; Mathijssen, PJH (2021): Age determination of Seida (CCAC1) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934261
+Väliranta, M; Mathijssen, PJH (2021): Age determination of Seida P3C2 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.934262
+Väliranta, M; Mathijssen, PJH (2021): Age determination of Siikaneva peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.934154
+Väliranta, M; Mathijssen, PJH (2021): Calibrated ages of Indigo (P1C3) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929494
+Väliranta, M; Mathijssen, PJH (2021): Calibrated ages of Indigo (P2C8) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929496
+Väliranta, M; Mathijssen, PJH (2021): Calibrated ages of Seida (CCAC1) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929498
+Väliranta, M; Mathijssen, PJH (2021): Calibrated ages of Seida P3C2 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.929501
+Väliranta, M; Mathijssen, PJH (2021): Calibrated ages of Siikaneva peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.929399
+Väliranta, M; Mathijssen, PJH (2021): Geochemistry of Indigo (P1C3) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927763
+Väliranta, M; Mathijssen, PJH (2021): Geochemistry of Indigo (P2C8) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927765
+Väliranta, M; Mathijssen, PJH (2021): Geochemistry of Seida (CCAC1) peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927766
+Väliranta, M; Mathijssen, PJH (2021): Geochemistry of Seida P3C2 peat core from Russia. PANGAEA, https://doi.org/10.1594/PANGAEA.927767
+Väliranta, M; Mathijssen, PJH (2021): Geochemistry of Siikaneva peat core from Finland. PANGAEA, https://doi.org/10.1594/PANGAEA.927689
+van Bellen, S (2018): Age determination of Lac_Le_Caron peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890499
+van Bellen, S (2018): Age determination of Mosaik_coreCentral peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890502
+van Bellen, S (2018): Age determination of Sterne peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890512
+van Bellen, S (2018): Geochemistry of Lac_Le_Caron peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890476
+van Bellen, S (2018): Geochemistry of Mosaik_coreCentral peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890479
+van Bellen, S (2018): Geochemistry of Sterne peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890489
+van Bellen, S (2021): Age determination of Lac Le Caron (LLC_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934769
+van Bellen, S (2021): Age determination of Lac Le Caron (LLC_L1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934770
+van Bellen, S (2021): Age determination of Lac Le Caron (LLC_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934771
+van Bellen, S (2021): Age determination of Lac Le Caron (LLC_T1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934772
+van Bellen, S (2021): Age determination of Lac Le Caron (LLC_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934774
+van Bellen, S (2021): Age determination of Mosaik C (MOS_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935017
+van Bellen, S (2021): Age determination of Mosaik L1 (MOS_L1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935018
+van Bellen, S (2021): Age determination of Mosaik L4 (MOS_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935019
+van Bellen, S (2021): Age determination of Mosaik T1 (MOS_T1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935021
+van Bellen, S (2021): Age determination of Mosaik T4 (MOS_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935022
+van Bellen, S (2021): Age determination of of Sterne (STE_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936521
+van Bellen, S (2021): Age determination of Sterne (STE_L2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936522
+van Bellen, S (2021): Age determination of Sterne (STE_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.936523
+van Bellen, S (2021): Age determination of Sterne Bog (STE_T2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934766
+van Bellen, S (2021): Age determination of Sterne Bog (STE_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934768
+van Bellen, S (2021): Calibrated ages of Lac Le Caron (LLC_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929845
+van Bellen, S (2021): Calibrated ages of Lac Le Caron (LLC_L1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929846
+van Bellen, S (2021): Calibrated ages of Lac Le Caron (LLC_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929847
+van Bellen, S (2021): Calibrated ages of Lac Le Caron (LLC_T1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929848
+van Bellen, S (2021): Calibrated ages of Lac Le Caron (LLC_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929849
+van Bellen, S (2021): Calibrated ages of Mosaik C (MOS_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929910
+van Bellen, S (2021): Calibrated ages of Mosaik L1 (MOS_L1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929911
+van Bellen, S (2021): Calibrated ages of Mosaik L4 (MOS_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929958
+van Bellen, S (2021): Calibrated ages of Mosaik T1 (MOS_T1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929972
+van Bellen, S (2021): Calibrated ages of Mosaik T4 (MOS_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929974
+van Bellen, S (2021): Calibrated ages of Sterne (STE_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930193
+van Bellen, S (2021): Calibrated ages of Sterne (STE_L2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930481
+van Bellen, S (2021): Calibrated ages of Sterne (STE_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930482
+van Bellen, S (2021): Calibrated ages of Sterne Bog (STE_T2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929843
+van Bellen, S (2021): Calibrated ages of Sterne Bog (STE_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929844
+van Bellen, S (2021): Geochemistry of Lac Le Caron (LLC_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928249
+van Bellen, S (2021): Geochemistry of Lac Le Caron (LLC_L1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928250
+van Bellen, S (2021): Geochemistry of Lac Le Caron (LLC_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928252
+van Bellen, S (2021): Geochemistry of Lac Le Caron (LLC_T1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928253
+van Bellen, S (2021): Geochemistry of Lac Le Caron (LLC_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928254
+van Bellen, S (2021): Geochemistry of Mosaik C (MOS_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928378
+van Bellen, S (2021): Geochemistry of Mosaik L1 (MOS_L1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928379
+van Bellen, S (2021): Geochemistry of Mosaik L4 (MOS_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928380
+van Bellen, S (2021): Geochemistry of Mosaik T1 (MOS_T1) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928383
+van Bellen, S (2021): Geochemistry of Mosaik T4 (MOS_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928384
+van Bellen, S (2021): Geochemistry of Sterne Bog (STE_C) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928632
+van Bellen, S (2021): Geochemistry of Sterne Bog (STE_L2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928634
+van Bellen, S (2021): Geochemistry of Sterne Bog (STE_L4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928635
+van Bellen, S (2021): Geochemistry of Sterne Bog (STE_T2) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928189
+van Bellen, S (2021): Geochemistry of Sterne Bog (STE_T4) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928190
+van der Linden, M (2021): Age determination of Lappmyran (LPM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934274
+van der Linden, M (2021): Age determination of Saxnas Mosse (SNM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.934284
+van der Linden, M (2021): Calibrated ages of Lappmyran (LPM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929538
+van der Linden, M (2021): Calibrated ages of Saxnas Mosse (SNM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.929540
+van der Linden, M (2021): Geochemistry of Lappmyran (LPM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927839
+van der Linden, M (2021): Geochemistry of Saxnas Mosse (SNM) peat core from Sweden. PANGAEA, https://doi.org/10.1594/PANGAEA.927844
+Wang, G (2021): Age determination of Qindeli peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.934137
+Wang, G (2021): Calibrated ages of Qindeli peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.929366
+Wang, G (2021): Geochemistry of Qindeli peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.927538
+Yu, Z (2018): Age determination of Goldeye_Fen peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890381
+Yu, Z (2018): Age determination of Kenai_Gasfield peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890214
+Yu, Z (2018): Age determination of Mariana_coreMF03-1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890382
+Yu, Z (2018): Age determination of Mariana_coreMF03-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890383
+Yu, Z (2018): Age determination of Mariana_coreMF03-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890384
+Yu, Z (2018): Age determination of No-Name_Creek peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890215
+Yu, Z (2018): Age determination of Nuikluk_coreNL10-1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890189
+Yu, Z (2018): Age determination of Nuikluk_coreNL10-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890216
+Yu, Z (2018): Age determination of Patuanak_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890386
+Yu, Z (2018): Age determination of Sundance_coreSF03-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890389
+Yu, Z (2018): Age determination of Sundance_coreSF03-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890390
+Yu, Z (2018): Age determination of Upper_Pinto peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890392
+Yu, Z (2018): Age determination of Utikuma_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890393
+Yu, Z (2018): Geochemistry of Goldeye_Fen peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890346
+Yu, Z (2018): Geochemistry of Kenai_Gasfield peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890200
+Yu, Z (2018): Geochemistry of Mariana_coreMF03-1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890347
+Yu, Z (2018): Geochemistry of Mariana_coreMF03-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890348
+Yu, Z (2018): Geochemistry of Mariana_coreMF03-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890349
+Yu, Z (2018): Geochemistry of No-Name_Creek peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890201
+Yu, Z (2018): Geochemistry of Nuikluk_coreNL10-1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890186
+Yu, Z (2018): Geochemistry of Nuikluk_coreNL10-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890202
+Yu, Z (2018): Geochemistry of Patuanak_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890351
+Yu, Z (2018): Geochemistry of Sundance_coreSF03-2 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890354
+Yu, Z (2018): Geochemistry of Sundance_coreSF03-3 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890355
+Yu, Z (2018): Geochemistry of Upper_Pinto peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890357
+Yu, Z (2018): Geochemistry of Utikuma_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890358
+Yu, Z (2021): Age determination of Goldeye peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934721
+Yu, Z (2021): Age determination of Kenai Gasfield peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934396
+Yu, Z (2021): Age determination of Mariana (MF03-3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.934722
+Yu, Z (2021): Age determination of No Name Creek (NNC) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934838
+Yu, Z (2021): Age determination of Nuikluk (NL10-2) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934440
+Yu, Z (2021): Age determination of Patuanak (PAT) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935725
+Yu, Z (2021): Age determination of Upper Pinto (UPF) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935722
+Yu, Z (2021): Age determination of Utikuma (UTI) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.935721
+Yu, Z (2021): Calibrated ages of Goldeye peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929746
+Yu, Z (2021): Calibrated ages of Kenai Gasfield peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929647
+Yu, Z (2021): Calibrated ages of Mariana (MF03-3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.929766
+Yu, Z (2021): Calibrated ages of No Name Creek (NNC) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929867
+Yu, Z (2021): Calibrated ages of Nuikluk (NL10-2) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929679
+Yu, Z (2021): Calibrated ages of Patuanak (PAT) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930146
+Yu, Z (2021): Calibrated ages of Upper Pinto (UPF) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930124
+Yu, Z (2021): Calibrated ages of Utikuma (UTI) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.930123
+Yu, Z (2021): Geochemistry of Goldeye peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928180
+Yu, Z (2021): Geochemistry of Kenai Gasfield peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927966
+Yu, Z (2021): Geochemistry of Mariana (MF03-3) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928183
+Yu, Z (2021): Geochemistry of No Name Creek (NNC) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.928296
+Yu, Z (2021): Geochemistry of Nuikluk (NL10-2) peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.927975
+Yu, Z (2021): Geochemistry of Patuanak (PAT) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928585
+Yu, Z (2021): Geochemistry of Upper Pinto (UPF) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928558
+Yu, Z (2021): Geochemistry of Utikuma (UTI) peat core from Canada. PANGAEA, https://doi.org/10.1594/PANGAEA.928557
+Yu, Z; Hunt, S; Jones, MC (2021): Age determination of M179 peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.934837
+Yu, Z; Hunt, S; Jones, MC (2021): Calibrated ages of M179 peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.929864
+Yu, Z; Hunt, S; Jones, MC (2021): Geochemistry of M179 peat core from the USA. PANGAEA, https://doi.org/10.1594/PANGAEA.928268
+Zhao, Y (2018): Age determination of Altay_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890544
+Zhao, Y (2018): Age determination of Zoige_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890556
+Zhao, Y (2018): Geochemistry of Altay_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890528
+Zhao, Y (2018): Geochemistry of Zoige_core1 peat core. PANGAEA, https://doi.org/10.1594/PANGAEA.890540
+Zhao, Y (2021): Age determination of Altay peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.934124
+Zhao, Y (2021): Age determination of ATM10-C4 peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.934777
+Zhao, Y (2021): Age determination of Zoige (ZB10-C9) peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.934139
+Zhao, Y (2021): Age determination of Zoige Manrima (ZB08-s9) peat core from Tibetan Plateau, China. PANGAEA, https://doi.org/10.1594/PANGAEA.934140
+Zhao, Y (2021): Age determination of Zoige Wagen (ZB08-s4) peat core from Tibetan Plateau, China. PANGAEA, https://doi.org/10.1594/PANGAEA.934141
+Zhao, Y (2021): Calibrated ages of Altay peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.929364
+Zhao, Y (2021): Calibrated ages of ATM10-C4 peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.929854
+Zhao, Y (2021): Calibrated ages of Zoige (ZB10-C9) peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.929367
+Zhao, Y (2021): Calibrated ages of Zoige Manrima (ZB08-s9) peat core from Tibetan Plateau, China. PANGAEA, https://doi.org/10.1594/PANGAEA.929368
+Zhao, Y (2021): Calibrated ages of Zoige Wagen (ZB08-s4) peat core from Tibetan Plateau, China. PANGAEA, https://doi.org/10.1594/PANGAEA.929370
+Zhao, Y (2021): Geochemistry of Altay peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.927536
+Zhao, Y (2021): Geochemistry of ATM10-C4 peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.928257
+Zhao, Y (2021): Geochemistry of Zoige (ZB10-C9) peat core from China. PANGAEA, https://doi.org/10.1594/PANGAEA.927539
+Zhao, Y (2021): Geochemistry of Zoige Manrima (ZB08-s9) peat core from Tibetan Plateau, China. PANGAEA, https://doi.org/10.1594/PANGAEA.927655
+Zhao, Y (2021): Geochemistry of Zoige Wagen (ZB08-s4) peat core from Tibetan Plateau, China. PANGAEA, https://doi.org/10.1594/PANGAEA.927656
