@@ -25,50 +25,49 @@ pg_cache$cache_path_get()
 # create a folder for download
 getwd()
 dir.create(path=paste0(getwd(),"/Downloads"))
-folderpath <- paste0(getwd(),"/Downloads")
+folderpath <- (paste0(getwd(),"/Downloads"))
 
 # set the location of the cache path of pangaear 
 pg_cache$cache_path_set(full_path = folderpath)
 # now data files are downloaded into that folder when executing pg_data()
 
-
 #=============== 3. GET DATA =================
 # download single dataset
 # pg_data returns list, data table -> data frame
-# pg_data automatically writes the .tab file to the cache folder (in this case /Downloads)
+# pg_data automatically writes the .tab file to the cache folder (in this case /Downloads, see 2. SETTING PANGAEAR CACHE)
 Joey_core12 <- pg_data(doi="10.1594/PANGAEA.890405")
 Joey_core12 <- Joey_core12[[1]][["data"]]
 
 # create a folder for download
 getwd()
-dir.create(path="R/Files")
-folderpath <- "R/Files/"
+dir.create(path=paste0(getwd(),"/Data"))
+datapath <- paste0(getwd(),"/Data/")
 
 # write table as txt file
 # paste function: concatenate vectors by converting them into character (list of vectors, separator), paste0() - without separator
-write.table(Joey_core12, file=paste0(folderpath,"Joey_core12.txt"), row.names = FALSE, quote = FALSE, sep = "\t", na = "")
+write.table(Joey_core12, file=paste0(datapath,"Joey_core12.txt"), row.names = FALSE, quote = FALSE, sep = "\t", na = "")
 
-
-#=============== 3. FILTER SEARCH RESULTS =================
+#=============== 4. FILTER SEARCH RESULTS =================
 # restrict the search by geographical coordinates with an attribute bbox=c(minlon, minlat, maxlon, maxlat)
 # datasets in northern Sweden
-PAGES_Sweden <- pg_search("project:label:PAGES_C-PEAT", count = 1000, bbox=c(17.7, 67.7, 21, 69))
+PAGES_Sweden <- pg_search("project:label:PAGES_C-PEAT", count = 500, bbox=c(17.7, 67.7, 21, 69))
 
 # filter only datasets with "Geochemistry" in title (column citation)
 # grepl function: looks for a given pattern in data
 # filter function from dplyr package: subsetting data (arguments: data frame and logical condition specifying the rows that should be returned)
 PAGES_Sweden <- filter(PAGES_Sweden, grepl("Geochemistry", citation))
 
-#=============== 4. GET MULTIPLE DATA =================
+#=============== 5. GET MULTIPLE DATA =================
 # combine data into a single data frame
 
 # initiate a data frame
 PAGES_Sweden_data <- data.frame()
 
-# loop over all filtered datastes
+# loop over all filtered datastes listed in PAGES_Sweden
 
 # function bind_rows from dplyr package: unlike for rbind, the number of columns of the dataframes doesn't need to be the same
 for (i in 1:nrow(PAGES_Sweden)) {
+  # using pg_data will automatically download the .tab format of the datasets (metadata + data) in the cache folder
   geochem <- pg_data(doi=PAGES_Sweden[i,2])
   # extract georeferencing
   latitude <- geochem[["doi"]][["metadata"]][["events"]][["LATITUDE"]]
@@ -85,4 +84,4 @@ for (i in 1:nrow(PAGES_Sweden)) {
 }
 
 # write table as txt file
-write.table(PAGES_Sweden_data, file=paste0(folderpath,"Sweden_geochem.txt"), row.names = FALSE, quote = FALSE, sep = "\t", na = "")
+write.table(PAGES_Sweden_data, file=paste0(datapath,"Sweden_geochem.txt"), row.names = FALSE, quote = FALSE, sep = "\t", na = "")
