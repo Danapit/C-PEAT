@@ -40,7 +40,7 @@ pg_cache$cache_path_set(full_path = folderpath)
 Joey_core12 <- pg_data(doi="10.1594/PANGAEA.890405")
 Joey_core12 <- Joey_core12[[1]][["data"]]
 
-# create a folder for download of edited data tables - a warning comes if the directory already exists
+# create a directory for download of edited data tables - a warning comes if the directory already exists
 getwd()
 dir.create(path=paste0(getwd(),"/Data"))
 datapath <- paste0(getwd(),"/Data/")
