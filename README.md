@@ -17,3 +17,7 @@ Nicole Sanderson
   'Pangaea' Database_. R package version 1.1.0, <https://CRAN.R-project.org/package=pangaear>.
 *  R Core Team (2022). R: A language and environment for statistical computing. R Foundation for Statistical
   Computing, Vienna, Austria. URL <https://www.R-project.org/>
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7379847.svg)](https://doi.org/10.5281/zenodo.7379847)
+
