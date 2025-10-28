@@ -6,6 +6,27 @@ library(pangaear) # Access to PANGAEA data; see package details at https://githu
 library(dplyr)    # Data manipulation tools; see details at https://dplyr.tidyverse.org/
 library(stringr)  # String manipulation utilities
 
+# Folders Download and Data -----------------------------------------------
+
+# create a folder for download
+folder_path <- (paste0(getwd(),"/Downloads"))
+
+if (!dir.exists(folder_path)) {
+  dir.create(folder_path)
+  message("Folder created: ", folder_path)
+} else {
+  message("Folder already exists: ", folder_path)
+}
+
+# create a folder for data
+folder_path <- (paste0(getwd(),"/Data"))
+
+if (!dir.exists(folder_path)) {
+  dir.create(folder_path)
+  message("Folder created: ", folder_path)
+} else {
+  message("Folder already exists: ", folder_path)
+}
 
 # Search PAGES_C-PEAT records ---------------------------------------------
 
@@ -25,16 +46,6 @@ write.table(sort(PAGES$full_citation), file="Data/citations_PAGES.txt", row.name
 # so it is nice to have it "at hand"
 # View current cache path
 pg_cache$cache_path_get()
-
-# create a folder for download
-folder_path <- (paste0(getwd(),"/Downloads"))
-
-if (!dir.exists(folder_path)) {
-  dir.create(folder_path)
-  message("Folder created: ", folder_path)
-} else {
-  message("Folder already exists: ", folder_path)
-}
 
 # Set cache location for data downloads
 # data files will be downloaded into that folder when executing pg_data()
