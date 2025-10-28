@@ -12,12 +12,12 @@ C-PEAT/
 ├── C-PEAT_download.Rproj        # R project file
 ├── .gitignore                   # to exclude temporary and cache files
 │
-├── R-Scripts/                   # all R scripts and modules
+├── R-Scripts/                   # example R scripts
 │   ├── 01_download_all.R
 │   ├── 02_geochemistry_data.R
 │   └── 03_cal_age_data.R
 │
-├── Python-Scripts/              # all Python notebooks and scripts
+├── Python-Scripts/              # example Python notebooks
 │   ├── notebook.ipynb
 │   ├── ...
 │
