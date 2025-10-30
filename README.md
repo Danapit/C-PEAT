@@ -1,6 +1,4 @@
 # C-PEAT data retrieval from PANGAEA (R & Python)
-This R script (R Core Team, 2022) uses the [pangaear](https://github.com/ropensci/pangaear) package (Chamberlain et al., 2021) to retrieve metadata and data of the PAGES’ C-PEAT Global Peatland Carbon Database published in the PANGAEA repository (Felden et al., 2023). By October 2025 it consists of [758 datasets](https://www.pangaea.de/?q=project:label:PAGES_C-PEAT).
-
 This repository contains scripts to retrieve metadata and data from the **PAGES C-PEAT Global Peatland Carbon Database** published in the [PANGAEA](https://www.pangaea.de/) repository (Felden et al., 2023).  
 Two implementations are provided:  
 
