@@ -8,7 +8,7 @@ Two implementations are provided:
 - **Python Jupyter notebooks** using the [`pangaeapy`](https://pypi.org/project/pangaeapy/) package (Huber at al., 2025)  
 
 ## Example scripts
-We provide example R scripts [example R scripts](https://github.com/Danapit/C-PEAT/tree/main/R-Scripts) and an equivalent Python [Jupyter Notebook](https://github.com/Danapit/C-PEAT/tree/main/Python-Scripts) for accessing the PAGES’ C-PEAT data.
+We provide example R scripts [example R scripts](https://github.com/Danapit/C-PEAT/tree/main/R-Scripts) and an equivalent Python [Jupyter Notebooks](https://github.com/Danapit/C-PEAT/tree/main/Python-Scripts) for accessing the PAGES’ C-PEAT data.
 
 ## Structure
 
