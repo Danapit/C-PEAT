@@ -46,10 +46,10 @@ Nicole Sanderson
 
 ## References
 *  Chamberlain S, Woo K, MacDonald A, Zimmerman N, Simpson G (2021). _pangaear: Client for the 'Pangaea' Database_. R package version 1.1.0, <https://CRAN.R-project.org/package=pangaear>.
-*  Huber, R; Röttenbacher, J; Selke, N; CodeShredder; Spreckelen, F; Balamurugan, A; Lowe, S; Stocker, M; Kempf, D; Iris-Hinrichs; Schindler, U & qays abou housien. (2025). pangaea-data-publisher/pangaeapy: v1.1.0 (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.15749619
+*  Huber, R; Röttenbacher, J; Selke, N; CodeShredder; Spreckelen, F; Balamurugan, A; Lowe, S; Stocker, M; Kempf, D; Iris-Hinrichs; Schindler, U & qays abou housien. (2025). _pangaea-data-publisher/pangaeapy: v1.1.0 (v1.1.0)_. Zenodo. https://doi.org/10.5281/zenodo.15749619
 *  Felden, J; Möller, L; Schindler, U; Huber, R; Schumacher, S; Koppe, R; Diepenbroek, M; Glöckner, FO (2023) _PANGAEA – Data Publisher for Earth & Environmental Science_. Scientific Data, 10(1), 347, <https://doi.org/10.1038/s41597-023-02269-x>.
 *  R Core Team (2022). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL <https://www.R-project.org/>
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7379847.svg)](https://doi.org/10.5281/zenodo.7379847)
+## Citation
+Ransby, D; Riemann-Campe, K & Sanderson, N (2025). C-PEAT data retrieval from PANGAEA (R & Python). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17465602.svg)](https://doi.org/10.5281/zenodo.17465602)
 
